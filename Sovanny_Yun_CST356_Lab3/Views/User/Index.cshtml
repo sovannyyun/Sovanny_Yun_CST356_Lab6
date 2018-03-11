@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Sovanny_Yun_CST356_Lab3.Models.View.UserViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 class="well">Index</h2>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-default btn-lg" })
+
+</p>
+<table id="ShowAndHideTable" class="table-striped table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MiddleName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.YearInSchool)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MiddleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearInSchool)
+            </td>
+            <td>
+                @Html.ActionLink("More...", "Index", "Major", new { userId = item.Id }, null)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-default btn-sm" })
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-default btn-sm" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-default btn-sm" })
+            </td>
+        </tr>
+    }
+
+    @if (Model.Count() > 2)
+    {
+        <div class="alert alert-success alert-dismissible">
+            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+            You have more than two entities in the database.
+        </div>
+    }
+</table>
+
+<button id="ShowTable" class="btn btn-success">Show</button>
+<button id="HideTable" class="btn btn-danger">Hide</button>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            alert("Hello");
+
+            $("#ShowTable").on("click", function () {
+                $("#ShowAndHideTable").show();
+                //$("#ShowAndHideTable").removeClass("hidden");
+            });
+            $("#HideTable").on("click", function () {
+                $("#ShowAndHideTable").hide();
+                //$("#ShowAndHideTable").addClass("hidden");
+            });
+        });
+    </script>
+}
+
+

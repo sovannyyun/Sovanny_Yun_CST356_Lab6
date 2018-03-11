@@ -1,0 +1,114 @@
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\ApplicationInsights.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\csc.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\vbc.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\VBCSCompiler.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.dll.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.pdb
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Antlr3.Runtime.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.SqlServer.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Web.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Newtonsoft.Json.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Helpers.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Mvc.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Optimization.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Razor.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Razor.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\WebGrease.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.SqlServer.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Web.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Helpers.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Mvc.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Optimization.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.Razor.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Razor.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Antlr3.Runtime.pdb
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\bin\Newtonsoft.Json.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.pdb
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\ApplicationInsights.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\csc.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\vbc.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\VBCSCompiler.exe
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.dll.config
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Sovanny_Yun_CST356_Lab3.pdb
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Antlr3.Runtime.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.SqlServer.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Web.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Newtonsoft.Json.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Helpers.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Mvc.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Optimization.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Razor.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Razor.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\WebGrease.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\EntityFramework.SqlServer.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.Web.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Helpers.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Mvc.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Optimization.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.Razor.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\System.Web.WebPages.Razor.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Antlr3.Runtime.pdb
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\bin\Newtonsoft.Json.xml
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.dll
+C:\Users\SovannyTfk\Documents\Academic\CST356\Labs\Sovanny_Yun_CST356_Lab3 - Copy\Sovanny_Yun_CST356_Lab3\obj\Debug\Sovanny_Yun_CST356_Lab3.pdb
